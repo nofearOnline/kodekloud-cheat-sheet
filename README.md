@@ -1,4 +1,4 @@
-# kodekloud-quick-copy
+# kodekloud cheat sheet
 I decided to write it for the last time:
 
 ## App Servers
